@@ -4,11 +4,15 @@ Machine Learning – Bayesian Classification
 Joshua Nuttall
 
 Contents
+
 1 Introduction 
+
 2 Basic Evaluation 
+
 3 Research
 
 1 Introduction
+
 Following the Implementation of the naive Bayes algorithm for lab assignment:
 ”Machine Learning – Bayesian Classification”, the following is the corresponding
 report.
