@@ -11,13 +11,13 @@ Contents
 
 3 Research
 
-1 Introduction
+# 1 Introduction
 
 Following the Implementation of the naive Bayes algorithm for lab assignment:
 ”Machine Learning – Bayesian Classification”, the following is the corresponding
 report.
 
-2 Basic Evaluation
+# 2 Basic Evaluation
 
 With my first attempt at cleaning data I used a simple regular expression to
 remove all none alphanumerical values, I first broke a text doc line down to
@@ -50,7 +50,7 @@ lemmatised words as a noun, it is possible to use NLTK to figure out if the word
 is a noun adjective etc, however this would of required a complete restructure
 of my parsing class hence I opted to disable this feature.
 
-3 Research
+# 3 Research
 
 My first initial finding for increasing the accuracy of prediction was to remove
 common words such as ”a”, ”and”, ”is”, etc... These words would skew the
